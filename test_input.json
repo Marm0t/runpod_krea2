@@ -1,0 +1,11 @@
+{
+  "input": {
+    "prompt": "cartoon picture of tanuki and brown bear drinking sake on grin hill, sunny weather, blue sky",
+    "width": 1248,
+    "height": 1680,
+    "num_inference_steps": 8,
+    "guidance_scale": 0.0,
+    "output_format": "png",
+    "quality": 92
+  }
+}

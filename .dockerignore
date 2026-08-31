@@ -1,0 +1,10 @@
+.git
+.agents
+.codex
+.venv
+__pycache__
+.pytest_cache
+tests
+*.pyc
+test_input.json
+README.md

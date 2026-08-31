@@ -1,0 +1,9 @@
+diffusers==0.40.0
+transformers==5.16.1
+accelerate==1.14.0
+peft==0.20.0
+safetensors==0.8.0
+sentencepiece==0.2.1
+Pillow==11.3.0
+fastapi==0.116.1
+uvicorn==0.35.0
